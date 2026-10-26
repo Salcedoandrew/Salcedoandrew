@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner-profile.svg" width="100%" alt="Salcedo Andrew — wedding film and photo, macOS tools">
+  <img src="assets/banner-profile.svg" width="100%" alt="Salcedo Andrew — photo and video file-management, macOS tools">
 </div>
 
 <p align="center">

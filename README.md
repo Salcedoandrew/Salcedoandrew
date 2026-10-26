@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Wedding film and photo by trade. I build the macOS tools that get a shoot from card to archive without losing a frame — because the ones that existed did not fit the way I work.
+  Wedding film and photo by trade. I re-built the macOS tools that fit into my workflow mainly in file management because the ones that existed did not fit the way I work.
 </p>
 
 <p align="center">

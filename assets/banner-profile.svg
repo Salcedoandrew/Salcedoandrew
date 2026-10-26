@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-label="Salcedo Andrew — wedding film and photo, macOS tools">
+  <title>Salcedo Andrew</title>
+  <defs>
+    <pattern id="perf" width="56" height="30" patternUnits="userSpaceOnUse">
+      <rect width="56" height="30" fill="#15171A"/>
+      <rect x="15" y="7" width="26" height="16" rx="3" fill="#2B2E33"/>
+    </pattern>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#D8A24A" stop-opacity="0.75"/>
+      <stop offset="0.55" stop-color="#D8A24A" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#D8A24A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="260" fill="#0B0C0E"/>
+  <rect width="1280" height="30" fill="url(#perf)"/>
+  <rect y="230" width="1280" height="30" fill="url(#perf)"/>
+
+  <text x="72" y="126" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="72" font-weight="700" letter-spacing="6" fill="#C8C4B8">SALCEDO ANDREW</text>
+
+  <rect x="74" y="152" width="330" height="2" fill="url(#rule)"/>
+
+  <text x="74" y="196" font-family="SF Mono, Menlo, Consolas, monospace"
+        font-size="18" letter-spacing="2.5" fill="#8A857C">WEDDING FILM &amp; PHOTO · MACOS TOOLS</text>
+
+  <text x="1208" y="196" text-anchor="end" font-family="SF Mono, Menlo, monospace"
+        font-size="15" letter-spacing="2" fill="#5E5A54">ROLL 01 · 2026</text>
+</svg>
